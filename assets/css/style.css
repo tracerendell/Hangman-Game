@@ -1,0 +1,71 @@
+body {
+
+	background-image: url("../images/background.jpg");
+	background-color: lightgrey;
+	font-family: "press start 2p";
+}
+
+#header {
+	
+	font-family: Audiowide;
+	color: gray;
+	font-size: 100px;
+}
+
+#theGame {
+
+	font-family: creepster;
+	color: red;
+}
+
+#subtitle {
+
+	font-family: faster one;
+	color: black;
+	text-align: center;
+	font-size: 70px;
+}
+
+.jumbotron {
+	border: 5px solid black;
+	margin-top: 25px;
+}
+
+.row {
+	margin: 0 auto;
+}
+
+.col-md-4 {
+	float: right;
+	border: 5px solid red;
+}
+
+.col-md-7 {
+	border: 5px solid red;
+}
+
+#loss {
+	float: right;
+}
+
+.col-md-5 {
+
+	height: 300px;
+	border: 5px solid black;
+
+}
+
+#winCounter {
+	font-size: 150px;
+	text-align: center;
+}
+
+#lossCounter {
+	font-size: 150px;
+	text-align: center;
+}
+
+#play {
+
+	border: 8px solid gold;
+}
