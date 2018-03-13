@@ -10,7 +10,7 @@
 				  'y','z',' '];
 
 // Word bank for possible word choices
-	var wordBank = ['predator', 'terminator', 'robocop', 'demolition man', 'total recall', 'die hard', 'lethal weapon', 'jurassic park', 'bloodsport'];
+	var wordBank = ['predator', 'terminator', 'robocop', 'demolition man', 'total recall', 'die hard', 'lethal weapon', 'jurassic park', 'bloodsport', 'braveheart'];
 
 // Holds chosen word
 	var chosenWord = "";
